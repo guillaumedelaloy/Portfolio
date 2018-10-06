@@ -6,10 +6,12 @@ If you want to have a look at some of my projects, scroll down the page and clic
 
 
 
-
+<br><br><br><br>
 
 
 # Projects
+
+<br><br><br><br>
 
 ## [Churn analysis](https://guillaumedelaloy.github.io/Churn_analysis/)
 
@@ -32,6 +34,7 @@ The objective of this project is to understand and predict the churn of customer
 
 The objective of this project is to investigate the link between comments related to Bitcoin on Twitter and Bitcoin's price evolution. This project is also an example of how we can leverage AWS tools to deploy a serverless machine learning/ deep learning project.
 
+<br><br><br><br>
 
 
 # MOOCs
