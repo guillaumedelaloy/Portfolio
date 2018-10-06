@@ -14,8 +14,16 @@ The objective of this project is to investigate the link between comments relate
 
 
 
- 
-This is me pretending to explain difficult concepts : 
+
+
+
+
+
+
+
+
+
+Me pretending to explain difficult concepts : 
 
 
 ![](images/photo.png?raw=true)
