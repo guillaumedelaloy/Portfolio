@@ -13,4 +13,9 @@ The objective of this project is to understand and predict the churn of customer
 The objective of this project is to investigate the link between comments related to Bitcoin on Twitter and Bitcoin's price evolution. This project is also an example of how we can leverage AWS tools to deploy a serverless machine learning/ deep learning project.
 
 
+
+ 
+This is me pretending to explain difficult concepts : 
+
+
 ![](images/photo.png?raw=true)
