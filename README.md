@@ -1,8 +1,10 @@
-My name is Guillaume Delaloy, I’m 24 years old. I will graduate from a dual degree in [Statistics](https://en.wikipedia.org/wiki/ENSAE_ParisTech) and [Business](https://en.wikipedia.org/wiki/ESCP_Europe) in December 2018. 
+My name is Guillaume Delaloy, I’m 24 years old. 
+In May 2017, I started an internship as a data scientist for 9 months in a data driven marketing company in Paris.
+I will graduate from a dual degree in [Statistics](https://en.wikipedia.org/wiki/ENSAE_ParisTech) and [Business](https://en.wikipedia.org/wiki/ESCP_Europe) in December 2018, and wish to pursue my career in the data science field!
 
 
-I am passionate about data science and innovation.
 If you want to have a look at some of my projects, scroll down the page and click on the links !
+If you want to know more about me, you can find my resume [here](https://github.com/guillaumedelaloy/Portfolio/blob/master/CV_GDELALOY_tech.pdf)
 
 
 
@@ -35,6 +37,10 @@ The objective of this project is to understand and predict the churn of customer
 The objective of this project is to investigate the link between comments related to Bitcoin on Twitter and Bitcoin's price evolution. This project is also an example of how we can leverage AWS tools to deploy a serverless machine learning/ deep learning project.
 
 <br><br>
+
+# Master Thesis
+
+In this paper, I presented an AWS based architecture that can be applied by B2B companies in order to automatically generate new leads. The process consists in targeting companies having an ideal profile for your offer, by automatically sending emails and analyse their answers thanks to sentiment analysis.
 
 
 # MOOCs
