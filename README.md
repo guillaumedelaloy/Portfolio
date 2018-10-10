@@ -13,10 +13,10 @@ If you want to know more about me, you can find my resume [here](https://github.
 
 # Projects
 
-<br><br>
+<br>
 
 Some projects I built on my spare time.
-<br><br>
+<br>
 
 ## [Churn analysis](https://guillaumedelaloy.github.io/Churn_analysis/)
 
