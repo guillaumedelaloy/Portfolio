@@ -13,12 +13,10 @@ If you want to know more about me, you can find my resume [here](https://github.
 
 # Projects
 
-<br>
 
 Some projects I built on my spare time.
-<br>
 
-## [Churn analysis](https://guillaumedelaloy.github.io/Churn_analysis/)
+### [Churn analysis](https://guillaumedelaloy.github.io/Churn_analysis/)
 
 
 
@@ -32,7 +30,7 @@ The objective of this project is to understand and predict the churn of customer
 
 
 
-## [Bitcoin price and social media](https://guillaumedelaloy.github.io/Bitcoin-price-and-social-media/)
+### [Bitcoin price and social media](https://guillaumedelaloy.github.io/Bitcoin-price-and-social-media/)
 
 
 
