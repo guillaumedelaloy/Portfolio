@@ -8,7 +8,7 @@ If you want to know more about me, you can find my resume [here](https://github.
 
 
 
-<br><br>
+<br>
 
 
 # Projects
@@ -37,7 +37,7 @@ The objective of this project is to understand and predict the churn of customer
 
 The objective of this project is to investigate the link between comments related to Bitcoin on Twitter and Bitcoin's price evolution. This project is also an example of how we can leverage AWS tools to deploy a serverless machine learning/ deep learning project.
 
-<br><br>
+<br>
 
 # Master Thesis
 
