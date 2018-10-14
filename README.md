@@ -16,12 +16,12 @@ If you want to know more about me, you can find my resume [here](https://github.
 
 Some projects I built on my spare time.
 
-### [Churn analysis](https://guillaumedelaloy.github.io/Churn_analysis/)
+#### Churn analysis
 
 
 
 
-The objective of this project is to understand and predict the churn of customers for a telecommunication company, in order to improve customers' retention. I will try to have a business oriented explanation of the project, so please go to the github repo for more details.
+The objective of this [project](https://guillaumedelaloy.github.io/Churn_analysis/) is to understand and predict the churn of customers for a telecommunication company, in order to improve customers' retention. I will try to have a business oriented explanation of the project, so please go to the github repo for more details.
 
 
 
@@ -30,12 +30,12 @@ The objective of this project is to understand and predict the churn of customer
 
 
 
-### [Bitcoin price and social media](https://guillaumedelaloy.github.io/Bitcoin-price-and-social-media/)
+#### Bitcoin price and social media
 
 
 
 
-The objective of this project is to investigate the link between comments related to Bitcoin on Twitter and Bitcoin's price evolution. This project is also an example of how we can leverage AWS tools to deploy a serverless machine learning/ deep learning project.
+The objective of this [project](https://guillaumedelaloy.github.io/Bitcoin-price-and-social-media/) is to investigate the link between comments related to Bitcoin on Twitter and Bitcoin's price evolution. This project is also an example of how we can leverage AWS tools to deploy a serverless machine learning/ deep learning project.
 
 <br>
 
