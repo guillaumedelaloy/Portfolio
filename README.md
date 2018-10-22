@@ -30,12 +30,10 @@ The objective of this [project](https://guillaumedelaloy.github.io/Churn_analysi
 
 
 
-#### Bitcoin price and social media
+#### An example of a microservice application : airline complaints on Twitter
 
 
-
-
-The objective of this [project](https://guillaumedelaloy.github.io/Bitcoin-price-and-social-media/) is to investigate the link between comments related to Bitcoin on Twitter and Bitcoin's price evolution. This project is also an example of how we can leverage AWS tools to deploy a serverless machine learning/ deep learning project.
+The objective of this [project](https://guillaumedelaloy.github.io/airlines-complaints-microservice/) is to determine which companies offer the best/worst customer experience, based on twitter complaints. This project is also an example of how we can leverage AWS tools to deploy an end to end serverless machine learning/ deep learning project.
 
 <br>
 
