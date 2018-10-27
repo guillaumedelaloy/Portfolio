@@ -1,0 +1,4 @@
+linkedin:
+  name: "LinkedIn"
+  baseURL: "https://linkedin.com/in/"
+  icon: "fa-linkedin"
