@@ -4,4 +4,8 @@ github:
   is_project_page: false
 description:
 github_username: guillaumedelaloy
-linkedin: guillaume-delaloy-5187bbb2
+social-network-links:
+  linkedin: guillaume-delaloy-5187bbb2
+
+share-links-active:
+  linkedin: true
