@@ -22,12 +22,15 @@ Some projects I have been working on lately
 The objective of this [project](https://guillaumedelaloy.github.io/airlines-complaints-microservice/) is to determine which companies offer the best/worst customer experience, based on twitter complaints. This project is also an example of how we can leverage AWS tools to deploy an end to end serverless machine learning/ deep learning project.
 
 <br>
-
+#### A/B testing
+<br>
+The objective of this [A/B test experiment](https://guillaumedelaloy.github.io/ab-testing/) is to make a recommendation on Udacity’s course overview page. They wanted to investigate the impact of adding a new feature in their checkout process.
+<br>
 #### Churn analysis
 
 
 The objective of this [project](https://guillaumedelaloy.github.io/Churn_analysis/) is to understand and predict the churn of customers for a telecommunication company, in order to improve customers' retention. I will try to have a business oriented explanation of the project, so please go to the github repo for more details.
-
+<br>
 
 # Master Thesis
 
