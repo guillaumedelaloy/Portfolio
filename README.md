@@ -20,7 +20,7 @@ Some projects I have been working on lately
 The objective of this [project](https://guillaumedelaloy.github.io/airlines-complaints/) is to determine which companies offer the best/worst customer experience, based on twitter complaints. This project is also an example of how we can leverage AWS tools to deploy an end to end serverless machine learning/ deep learning project.
 <br>
 #### Interactive dashboard : airline complaints
-This dashboard uses API gateway as a proxy for the database built for the airline complaints project. I used Chart.js for visualisation and S3 to host the website. Have a look [here :)](https://s3.amazonaws.com/dynamo-in-browser/index.html)
+This dashboard uses API gateway as a proxy for the DynamoDB table retrieving the airlines complaints tweets. I used Chart.js for visualisation and S3 to host the website. Have a look [here :)](https://s3.amazonaws.com/dynamo-in-browser/index.html)
 <br>
 #### A/B testing
 The objective of this [A/B test experiment](https://guillaumedelaloy.github.io/ab-testing/) is to make a recommendation on Udacity’s course overview page. They wanted to investigate the impact of adding a new feature in their checkout process.
