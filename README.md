@@ -6,8 +6,6 @@ I will graduate from a dual degree in [Statistics](https://en.wikipedia.org/wiki
 If you want to have a look at some of my projects, scroll down the page and click on the links !
 If you want to know more about me, you can find my resume [here](https://github.com/guillaumedelaloy/Portfolio/blob/master/CV_GDELALOY_tech.pdf)
 
-
-
 <br>
 
 
