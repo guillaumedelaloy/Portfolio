@@ -14,17 +14,17 @@ If you want to know more about me, you can find my resume [here](https://github.
 
 Some projects I have been working on lately, go check the [github repos](https://github.com/guillaumedelaloy) to dig into the details
 <br>
-#### An example of a microservice application : airline complaints on Twitter
-The objective of this [project](https://guillaumedelaloy.github.io/airlines-complaints/) is to determine which companies offer the best/worst customer experience, based on twitter complaints. This project is also an example of how we can leverage AWS tools to deploy an end to end serverless machine learning/ deep learning project.
+#### [An example of a microservice application : airline complaints on Twitter](https://guillaumedelaloy.github.io/airlines-complaints/)
+The objective of this project is to determine which companies offer the best/worst customer experience, based on twitter complaints. This project is also an example of how we can leverage AWS tools to deploy an end to end serverless machine learning/ deep learning project.
 <br>
-#### Interactive dashboard : airline complaints
-This dashboard uses API gateway as a proxy for the DynamoDB table retrieving the airlines complaints tweets. I used Chart.js for visualization and S3 to host the website. Have a look [here :)](https://s3.amazonaws.com/dynamo-in-browser/index.html)
+#### [Interactive dashboard : airline complaints](https://s3.amazonaws.com/dynamo-in-browser/index.html)
+This dashboard uses API gateway as a proxy for the DynamoDB table retrieving the airlines complaints tweets. I used Chart.js for visualization and S3 to host the website.
 <br>
-#### A/B testing
-The objective of this [A/B test experiment](https://guillaumedelaloy.github.io/ab-testing/) is to make a recommendation on Udacity’s course overview page. They wanted to investigate the impact of adding a new feature in their checkout process.
+#### [A/B testing](https://guillaumedelaloy.github.io/ab-testing/)
+The objective of this A/B test experiment is to make a recommendation on Udacity’s course overview page. They wanted to investigate the impact of adding a new feature in their checkout process.
 <br>
-#### Churn analysis
-The objective of this [project](https://guillaumedelaloy.github.io/Churn_analysis/) is to understand and predict the churn of customers for a telecommunication company, in order to improve customers' retention. I will try to have a business oriented explanation of the project, so please go to the github repo for more details.
+#### [Churn analysis](https://guillaumedelaloy.github.io/Churn_analysis/)
+The objective of this project is to understand and predict the churn of customers for a telecommunication company, in order to improve customers' retention. I will try to have a business oriented explanation of the project, so please go to the github repo for more details.
 <br>
 # Master Thesis
 
