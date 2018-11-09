@@ -1,6 +1,6 @@
 Hello, my name is Guillaume Delaloy, I am a data scientist student!
 In May 2017, I started an internship as a data scientist for 9 months in a data driven marketing company in Paris.
-I will graduate from a dual degree in [**Statistics**](https://en.wikipedia.org/wiki/ENSAE_ParisTech) and [**Business**](https://en.wikipedia.org/wiki/ESCP_Europe) in December 2018, and wish to pursue my career in the data science field!
+I will graduate from a dual degree in [Statistics](https://en.wikipedia.org/wiki/ENSAE_ParisTech) and [Business](https://en.wikipedia.org/wiki/ESCP_Europe) in December 2018, and wish to pursue my career in the data science field!
 <br>
 
 If you want to have a look at some of my projects, **scroll down the page and click on the links** !
@@ -12,7 +12,7 @@ If you want to know more about me, you can find my **resume** [here](https://git
 # Projects
 
 <br>
-Some projects I have been working on lately, go check [**github repos**](https://github.com/guillaumedelaloy) to dig into the details.
+Some projects I have been working on lately, go check [github repos](https://github.com/guillaumedelaloy) to dig into the details.
 <br>
 #### [An example of a microservice application : airline complaints on Twitter](https://guillaumedelaloy.github.io/airlines-complaints/)
 The objective of this project is to determine which companies offer the best/worst customer experience, based on twitter complaints. This project is also an example of how we can leverage AWS tools to deploy an end to end serverless machine learning/ deep learning project.
