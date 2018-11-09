@@ -11,8 +11,8 @@ If you want to know more about me, you can find my resume [here](https://github.
 
 # Projects
 
-
-Some projects I have been working on lately, go check the [github repos](https://github.com/guillaumedelaloy) to dig into the details
+<br>
+Some projects I have been working on lately, **go check the** [github repos](https://github.com/guillaumedelaloy) to dig into the details. **Click the projects' title to visit the github.io pages**
 <br>
 #### [An example of a microservice application : airline complaints on Twitter](https://guillaumedelaloy.github.io/airlines-complaints/)
 The objective of this project is to determine which companies offer the best/worst customer experience, based on twitter complaints. This project is also an example of how we can leverage AWS tools to deploy an end to end serverless machine learning/ deep learning project.
