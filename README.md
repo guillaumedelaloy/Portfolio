@@ -1,6 +1,6 @@
 Hello, my name is Guillaume Delaloy, I am a data scientist student!
 In May 2017, I started an internship as a data scientist for 9 months in a data driven marketing company in Paris.
-I will graduate from a dual degree in [Statistics](https://en.wikipedia.org/wiki/ENSAE_ParisTech) and [Business](https://en.wikipedia.org/wiki/ESCP_Europe) in December 2018, and wish to pursue my career in the data science field!
+I will graduate from a dual degree in [**Statistics**](https://en.wikipedia.org/wiki/ENSAE_ParisTech) and [**Business**](https://en.wikipedia.org/wiki/ESCP_Europe) in December 2018, and wish to pursue my career in the data science field!
 <br>
 
 If you want to have a look at some of my projects, **scroll down the page and click on the links** !
