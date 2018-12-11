@@ -23,9 +23,7 @@ This dashboard uses API gateway as a proxy for the DynamoDB table retrieving the
 #### [A/B testing](https://guillaumedelaloy.github.io/ab-testing/)
 The objective of this A/B test experiment is to make a recommendation on Udacity’s course overview page. They wanted to investigate the impact of adding a new feature in their checkout process.
 <br>
-#### [Churn analysis](https://guillaumedelaloy.github.io/Churn_analysis/)
-The objective of this project is to understand and predict the churn of customers for a telecommunication company, in order to improve customers' retention. I will try to have a business oriented explanation of the project, so please go to the github repo for more details.
-<br>
+
 # Master Thesis
 
 In this paper, I presented an AWS based architecture that can be applied by B2B companies in order to automatically generate new leads. The process consists in targeting companies having an ideal profile for your offer, by automatically sending emails and analyse their answers thanks to sentiment analysis.
